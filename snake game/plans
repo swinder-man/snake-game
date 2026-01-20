@@ -1,0 +1,4 @@
+/* about 5 tiles per second
+- need to create a grid pattern aprox 15 by 15 tiles (black)
+- needs a different sqaure for the snake and a way to tell what the head is (green)
+- needs a third sqaure that is different from the other 2 and grows the snake(red)
